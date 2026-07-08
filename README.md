@@ -6,8 +6,8 @@ The "MaTouch_AMOLED_AI_CAMERA" is a high-definition integrated display, touch an
 
 Product Link: [MaTouch_AMOLED_AI_CAMERA]
 
-Wiki Link: [MaTouch_AMOLED_AI_CAMERA]
+Wiki Link: [MaTouch_AMOLED_AI_CAMERA](https://wiki.makerfabs.com/MaTouch_AMOLED_AI_CAMERA.html)
 
-Example：1.[Display_Touch_Camera_Test]
+Example：1.[Display_Touch_Camera_Test](https://wiki.makerfabs.com/MaTouch_AMOLED_AI_CAMERA.html#41-display_touch_camera_test)
         
-         2.[Cat_face_detection]
+         2.[Cat_face_detection](https://wiki.makerfabs.com/MaTouch_AMOLED_AI_CAMERA.html#51-cat_face_detection)
